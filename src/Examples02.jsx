@@ -61,7 +61,7 @@ function Dodecahedron(props) {
   )
 }
 
-export default function Second() {
+export default function Examples02() {
   return (
     <Canvas camera={{ position: [5, 5, 5], fov: 25 }}>
       <ambientLight intensity={0.5} />
